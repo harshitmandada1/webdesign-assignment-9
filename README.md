@@ -12,7 +12,7 @@
 2. Express
 3. Mongoose
 4. MongoDB
-5.Angular
+5. Angular8
 
 ## Usage:
 Follow below steps in order to start the application.
