@@ -22,6 +22,8 @@ GO TO ANGULAR folder and enter ng serve
 In another terminal Install npm packages using npm i or npm install. Run application server using npm start or npm run start.
 
 You can access the app at http://localhost:4200/
+Server was previously on port 3000
+
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
